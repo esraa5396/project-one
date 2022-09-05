@@ -1,3 +1,2 @@
 create page setting
 create page home
-create Dashboard
